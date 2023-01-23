@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-
+![logo](https://github.com/Maseera-Sayyed/Maseera-Sayyed/blob/main/Screenshot%202023-01-23%20213545%20maseera%20.png)
 --><h1 align="center">Hi 👋, I'm Maseera Sayyed</h1>
 <h3 align="center">A Comprehensive learner and Enthusiastic Data scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Regression Analysis, Statistical Analysis, Mathematics.**
 
 - 📫 How to reach me **maseera2345@gmail.com**
-
+![logo](https://github.com/Maseera-Sayyed/Maseera-Sayyed/blob/main/Screenshot%202023-01-23%20213545%20maseera%20.png)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maseera sayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maseera sayyed" height="30" width="40" /></a>
