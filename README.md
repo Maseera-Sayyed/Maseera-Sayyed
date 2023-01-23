@@ -1,11 +1,4 @@
-### Hi there 👋
-
-<!--
-**Maseera-Sayyed/Maseera-Sayyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-![logo](https://github.com/Maseera-Sayyed/Maseera-Sayyed/blob/9c11ce9b199583e3bbb0a632099b7290429f7673/Screenshot%202023-01-23%20213545%20maseera%202.png)
+![logo](https://github.com/Maseera-Sayyed/Maseera-Sayyed/blob/main/Screenshot%202023-01-23%20213545%20maseera%203.png)
 --><h1 align="center">Hi 👋, I'm Maseera Sayyed</h1>
 <h3 align="center">A Comprehensive learner and Enthusiastic Data scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
